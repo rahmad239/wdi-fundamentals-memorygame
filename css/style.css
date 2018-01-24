@@ -16,6 +16,10 @@ a {
 	border-bottom: 2px solid transparent;
 }
 
+nav a {
+	color: #ffffff;
+}
+
 a:hover {
 	border-color: white;
 }
